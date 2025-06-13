@@ -1,0 +1,53 @@
+{
+  "playbooks": [
+    {
+      "name": "deploy-web-servers.yml",
+      "description": "Deploy web server configuration",
+      "last_run": "2 часа назад",
+      "status": "Успешно",
+      "actions": ["Редактировать", "Детали", "Запустить"]
+    },
+    {
+      "name": "update-database.yml",
+      "description": "Update database servers",
+      "last_run": "1 день назад",
+      "status": "Успешно",
+      "actions": ["Редактировать", "Детали", "Запустить"]
+    },
+    {
+      "name": "backup-systems.yml",
+      "description": "Backup all critical systems",
+      "last_run": "12 часов назад",
+      "status": "Выполняется",
+      "actions": ["Редактировать", "Детали", "Запустить"]
+    },
+    {
+      "name": "security-updates.yml",
+      "description": "Apply security patches",
+      "last_run": "3 дня назад",
+      "status": "Ошибка",
+      "actions": ["Редактировать", "Детали", "Запустить"]
+    },
+    {
+      "name": "provision-new-servers.yml",
+      "description": "Deploy web server configuration",
+      "last_run": "2 часа назад",
+      "status": "Успешно",
+      "actions": ["Редактировать", "Детали", "Запустить"]
+    },
+    {
+      "name": "deploy-web-servers.yml",
+      "description": "Provision new application servers",
+      "last_run": "5 дней назад",
+      "status": "Успешно",
+      "actions": ["Редактировать", "Детали", "Запустить"]
+    },
+    {
+      "name": "install-nginx.yml",
+      "description": "install-nginx",
+      "last_run": "2 часа назад",
+      "status": "Успешно",
+      "actions": ["Редактировать", "Детали", "Запустить"]
+    }
+  ]
+}

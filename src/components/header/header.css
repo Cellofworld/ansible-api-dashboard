@@ -1,0 +1,22 @@
+
+.headerPost {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #26282b;
+    color: white;
+    height: 60px;
+}
+
+.headerLogo {
+    margin-left: 15%;
+}
+
+.headerMenu {
+    display: flex;
+    margin-right: 5%;
+}
+
+.headerMenuItem {
+    padding: 0px 24px;
+}

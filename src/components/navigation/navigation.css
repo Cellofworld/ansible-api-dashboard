@@ -1,0 +1,27 @@
+.menuNavConts {
+    margin: 14px 0px;
+}
+
+.menuNavItems {
+    display: flex;
+    margin-top: 4px;
+    padding: 16px;
+    min-width: 194px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: #161617;
+    color: white;
+}
+
+.menuNavItems:hover {
+    background-color: #232324;
+}
+
+.menuNavIcon {
+    margin-right: 9px;
+}
+
+.menuTag {
+    color: #8d9394;
+}
