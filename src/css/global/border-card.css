@@ -1,0 +1,15 @@
+.border-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    max-width: 200px;
+}
+
+.rv-w {
+    min-width: 280px;
+}

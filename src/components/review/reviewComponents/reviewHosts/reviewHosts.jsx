@@ -1,8 +1,9 @@
 import { LuServer } from "react-icons/lu";
+import "../../../../css/global/border-card.css"
 
 function ReviewHosts() {
     return (
-      <div>
+      <div className="border-card rv-w">
         <div>
             <p>Хосты</p>
             <div>48</div>

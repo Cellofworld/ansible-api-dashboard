@@ -1,0 +1,8 @@
+.rev-ref-but {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: none;
+    width: 130px;
+    height: 40px;
+}
